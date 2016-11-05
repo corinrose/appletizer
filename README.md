@@ -3,7 +3,8 @@ appletizer
 
 a simple python utility to create a file that loads a web site
 
- `usage: appletizer.py [-h] [-c] [-e] [-m] [-b BROWSER] [-u URL] [-n NAME]
+<code>
+ usage: appletizer.py [-h] [-c] [-e] [-m] [-b BROWSER] [-u URL] [-n NAME]
  
  optional arguments:
 
@@ -15,4 +16,4 @@ a simple python utility to create a file that loads a web site
   -b BROWSER  use browser other than default
   -u URL      the url for the applet to open
   -n NAME     the name given to the applet`
-
+</code>
