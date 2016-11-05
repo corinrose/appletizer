@@ -5,9 +5,8 @@ a simple python utility to create a file that loads a web site
 
 <code>
  usage: appletizer.py [-h] [-c] [-e] [-m] [-b BROWSER] [-u URL] [-n NAME]
- 
- optional arguments:
-  -h, --help  show this help message and exit
+ optional arguments:\n
+  -h, --help  show this help message and exit\n
   -c          create applet
   -e          make file executable (requires sudo)
   -m          move file to /usr/bin directory (requires sudo)
