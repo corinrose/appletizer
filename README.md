@@ -3,8 +3,9 @@ appletizer
 
 a simple python utility to create a file that loads a web site
 
+usage:
 
- usage: appletizer.py [-h] [-c] [-e] [-m] [-b BROWSER] [-u URL] [-n NAME]
+ appletizer.py [-h] [-c] [-e] [-m] [-b BROWSER] [-u URL] [-n NAME]
  
  optional arguments:
 
